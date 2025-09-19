@@ -58,8 +58,8 @@ main{
     color: #FFF;
     font-size: 2.25rem;
     width: 212px;
-    transform: translateX(-100%);
-    text-align: end;
+    transform: translateX(-120%);
+    text-align: center;
     margin-right: 24px;
 }
   
