@@ -12,3 +12,11 @@ a{
 ul, ol, li{
     list-style: none;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
+  }
